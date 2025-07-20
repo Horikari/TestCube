@@ -1,3 +1,5 @@
+![TestCube logo](./Cube.png)
+
 # TestCube
 
 **TestCube** is the expandable, cable-free fixture and plugin platform of the TC-Platform.  
